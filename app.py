@@ -39,7 +39,7 @@ def health():
 
 @app.route("/")
 def home():
-    return "Welcome to Cbastias Youtube"
+    return "Welcome to Cbastias Youtube new channel"
 
 
 if __name__ == "__main__":
